@@ -1,0 +1,56 @@
+.icons {
+    height: 50px;
+    text-align: center;
+    padding: 2px;
+}
+
+.topMenu {
+    background-color: #333333;
+}
+
+.nav a{
+    display:inline-block;
+    padding:15px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.logos {
+    height: 50px;
+}
+
+.cardBackground {
+    background-color:  #af7ac5;
+}
+
+.cardBackground2 {
+    background-color:    #2980b9;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent; /* Removes border color */
+    float: left; /* Move navbar toggle to left */
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #f00; /* Changes regular toggle color */
+}
+.navbar-default .navbar-toggle .icon-bar:hover {
+    background-color: #fff; /* Changes toggle color on hover */
+}
+
+.bg {
+    background-image: url(Splatoon/BackgroundSquid2.jpeg);
+    height: auto;
+
+  /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: initial;
+    background-size: auto;
+}
+
+
+.card {
+    background-color: rgba(245, 245, 245, 1);
+}
